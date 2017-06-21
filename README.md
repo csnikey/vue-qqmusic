@@ -16,6 +16,7 @@
 # install dependencies
 cnpm i
 (可以用cnpm或yarn，更方便快捷，你值得拥有)
+yarn是什么，与cnpm的优缺点如何，需要去了解？？？？
 
 # serve with hot reload at localhost:8564
 npm run dev
